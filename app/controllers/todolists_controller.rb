@@ -52,4 +52,3 @@ class TodolistsController < ApplicationController
 
 end
 
-# test1
