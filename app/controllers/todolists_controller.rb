@@ -51,13 +51,3 @@ class TodolistsController < ApplicationController
   end
 
 end
-
-
-# test
-
-# test3
-
-
-# test6
-
-# test8
