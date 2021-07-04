@@ -4,6 +4,9 @@ class HomesController < ApplicationController
 end
 
 # test2
-# test4
 
+# test4
 # test5
+
+
+# test7
